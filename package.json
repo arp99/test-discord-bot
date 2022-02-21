@@ -18,5 +18,8 @@
   "homepage": "https://github.com/arp99/test-discord-bot#readme",
   "dependencies": {
     "discord.js": "^13.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.9.0"
   }
 }
